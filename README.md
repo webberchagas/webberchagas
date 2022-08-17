@@ -1,8 +1,8 @@
 ### Ola eu sou Webber Chagas 👋
 
-- 🔭 Hoje eu trabalho como Auxiliar de TI
-- 🌱 Estudando Front-end
-- 😄 Pronouns: ele/dele
+- 🔭 Atualmente busco entrar no mercado de trabalho como dev;
+- 🌱 Estudando Front-end pelo programa Explorer da RocketSeat;
+- 😄 Pronouns: ele/dele.
 
 <div>
   <a href="https://github.com/webberchagas">
